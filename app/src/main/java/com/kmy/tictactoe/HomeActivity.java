@@ -2,7 +2,6 @@ package com.kmy.tictactoe;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
-import androidx.constraintlayout.widget.ConstraintSet;
 
 import android.content.Intent;
 import android.graphics.drawable.AnimationDrawable;
